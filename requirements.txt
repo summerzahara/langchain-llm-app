@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain-openai
+openai
+streamlit
+python-dotenv
+wikipedia
+numexpr
+icecream
